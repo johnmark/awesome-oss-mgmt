@@ -9,3 +9,5 @@ We welcome improvements and suggestions! Please consider these guidelines:
 - New categories or improvements to the existing categorization are welcome.
 - Make sure your text editor is set to remove trailing whitespace.
 - Check your spelling and grammar.
+
+making a change
